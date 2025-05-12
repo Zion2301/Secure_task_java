@@ -1,5 +1,4 @@
 package com.aptech.Secure.Tasker.dtos;
-
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
